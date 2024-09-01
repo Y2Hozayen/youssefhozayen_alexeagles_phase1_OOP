@@ -1,0 +1,3 @@
+{"username": "admin", "password": "admin", "bookings": []}
+{"username": "youssef", "password": "242", "bookings": [{"flight_id": "ls298", "airline": "lufthansa", "departure_airport": "istanbul", "arrival_airport": "orlando", "departure_time": "12:00", "arrival_time": "19:00", "seats": 3, "meal_option": false}, {"flight_id": "qr179", "airline": "qatarairways", "departure_airport": "doha", "arrival_airport": "cape town", "departure_time": "15:30", "arrival_time": "22:15", "seats": 1, "meal_option": true}]}
+{"username": "yahia", "password": "hamada", "bookings": []}
